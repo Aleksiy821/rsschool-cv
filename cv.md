@@ -53,4 +53,4 @@ Molodechno Trade and Economic College of Belkoopsoyuz (MTEC)
 
 - English - A2
 - Belorussian - С2
-- Russian - C1
+- Russian - C2
