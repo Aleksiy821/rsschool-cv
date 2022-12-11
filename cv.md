@@ -18,7 +18,7 @@ After graduating from college, as our teachers told us, we will be back-end deve
 
 Already in the middle of the second course, I thought and decided that I want to develop in front-end development.
 
-I started my studies with web design and now I want to become a full-fledged ront-end developer.
+I started my studies with web design and now I want to become a full-fledged front-end developer.
 
 I know languages such as JavaScript, CSS and HTML markup language.
 
