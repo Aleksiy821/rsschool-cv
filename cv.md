@@ -7,6 +7,8 @@
 
 - Gmail - azemum39@gmail.com
 
+- telegram - @Lexa
+
 ## About me: 
 I am 18 years old.
 
